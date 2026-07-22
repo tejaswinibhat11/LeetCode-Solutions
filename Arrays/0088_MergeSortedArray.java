@@ -13,6 +13,7 @@ class Solution {
                 j--;
             }
             k--;
+            //post increment
         }
 
         while (j >= 0) {
