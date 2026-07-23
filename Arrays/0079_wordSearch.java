@@ -1,7 +1,7 @@
 class Solution {
 
     public boolean exist(char[][] board, String word) {
-        //wordsearch
+        //wordsearchs
         int rows = board.length;
         int cols = board[0].length;
 
